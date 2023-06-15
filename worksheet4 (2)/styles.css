@@ -90,4 +90,18 @@ iframe {
 
 }
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
 
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.container-nativagtion {
+    display: flex;
+    flex-wrap: wrap;
+}
